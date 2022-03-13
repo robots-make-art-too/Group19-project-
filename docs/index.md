@@ -2,9 +2,9 @@
 permalink: index
 ---
 
-# Sample site for group projects
+# Sample site for group projects 19 AMJJR Art Design
 
-Just a little site example
+Just a little site example of QR code
 
 ## AR content
 
