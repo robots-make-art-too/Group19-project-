@@ -16,7 +16,6 @@ step-2. Create a camera node object
 step-3. for observing 3D scenes.  Configure 3D view 
 step-4. Create a method to add 3D models to the scene  
 Finally, create gravity sensing object, detect the change of mobile phone Angle, generate AR image  
-QR Code:
-MarineQRCode.png
+QR Code:/Users/olala/Desktop/EECS-1720/Group19-project-/docs/website/pages/add-QR-code/MarineQRCode.png
+
 Show:
-demo1.m4v
